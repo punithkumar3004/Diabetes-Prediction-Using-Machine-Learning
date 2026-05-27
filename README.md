@@ -8,7 +8,7 @@ IEEE Conference Project
 - R Arthi
 - Sirimaram Mahidhar
 - Kudithipudi Dhanveer
-- Brahdesh S
+
 
 ## Project Overview
 This project predicts diabetes in expecting mothers using Machine Learning Algorithms and Hyperparameter Tuning.
